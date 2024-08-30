@@ -1,4 +1,4 @@
-
+This section demonstrates how to fetch data from an API and store it in local storage in a React Native application. The data will be retrieved every time the app runs, and the fetched data will be stored locally for offline access.
 
 # Getting Started
 
